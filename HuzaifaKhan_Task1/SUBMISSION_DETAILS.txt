@@ -1,0 +1,13 @@
+OIBSIP PROJECT SUBMISSION DETAILS
+
+Student Name: Huzaifa Khan
+Task: Task 1
+Project Title: Retail Sales Exploratory Data Analysis
+GitHub Repository: https://github.com/huzaifa-de/-OIBSIP
+Live Demo: Not applicable (offline Jupyter Notebook project)
+
+Before submitting:
+1. Ensure Retail_Sales_EDA.ipynb is present in the project folder.
+2. Confirm the GitHub repository contains the latest README.md, dataset, and charts.
+3. Submit the GitHub repository link through the official OIBSIP submission form.
+4. Use this package name: HuzaifaKhan_Task1
